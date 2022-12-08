@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shaktipg
-- 👀 I’m interested in network engineering and coding.
-- 🌱 I’m currently learning python
+- 👀 I’m interested in Embedded design.
+- 🌱 I’m currently working & learning the embedded systems.
 - 💞️ I’m looking to collaborate on "OLED Display Project".
 - 📫 How to reach me: shaktipg@live.com
 
