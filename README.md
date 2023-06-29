@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shaktipg
-- 👀 I’m interested in Embedded design.
-- 🌱 I’m currently working & learning the embedded systems.
+- 👀 I’m interested in Electronics  System.
+- 🌱 I’m currently working & learning the Hardware and Software System Design.
 - 💞️ I’m looking to collaborate on "OLED Display Project".
 - 📫 How to reach me: shaktipg@live.com
 
